@@ -7,10 +7,10 @@ I'm a B.Tech student from India passionate about Artificial Intelligence, Machin
 
 ## 🚀 Currently Working On
 
-- 📚 AI-powered Library Attendance System using Face Recognition
-- 🤖 Deepfake Detection & Protection Platform
+- 📚 AI-powered Predictive Maintenance System
+- 🤖 Reaserch Agentic AI
 - 💳 Credit Card Fraud Detection using Machine Learning
-- 💬 Reaserch Agentic AI
+- 💬 Explainable AI Based Brain Tumor Detection 
 ---
 
 ## 🌱 Currently Learning
@@ -20,7 +20,7 @@ I'm a B.Tech student from India passionate about Artificial Intelligence, Machin
 - Multi-Agent AI Systems
 - Flask & FastAPI
 - Computer Vision
-- Open Source Development
+- Agentic AI
 ---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am_i_engineer_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranav-sahu-37ab7b35a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Pranavsahu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mysterious_Tax194) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavsahu688@gmail.com) 
